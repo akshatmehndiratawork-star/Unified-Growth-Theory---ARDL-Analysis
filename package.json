@@ -1,0 +1,31 @@
+{
+  "name": "saudi-ugt-econometric-dashboard",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.1.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "recharts": "^2.12.2",
+    "three": "^0.162.0",
+    "@react-three/fiber": "^8.16.0",
+    "@react-three/drei": "^9.100.0",
+    "lucide-react": "^0.354.0",
+    "framer-motion": "^11.0.8"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.25",
+    "@types/react": "^18.2.64",
+    "@types/react-dom": "^18.2.21",
+    "@types/three": "^0.162.0",
+    "typescript": "^5.4.2",
+    "autoprefixer": "^10.4.18",
+    "postcss": "^8.4.35",
+    "tailwindcss": "^3.4.1"
+  }
+}
